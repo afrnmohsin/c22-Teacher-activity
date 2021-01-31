@@ -1,0 +1,12 @@
+class Matter{
+    class World{
+        add(<world>,<body>);//add function consists of 2 arguments
+        //static functions used without creating object of the class
+    }
+    class Engine{
+
+    }
+    class Bodies{
+        rectangle();
+    }
+}
